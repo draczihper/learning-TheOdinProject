@@ -1,0 +1,54 @@
+body {
+    margin-right: auto;
+    margin-left: auto;
+    background-color: rgb(255, 254, 244);
+    width: 80%;
+}
+
+h1 {
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 42px; 
+   margin-top: 0;
+   margin-bottom: 10px;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding-top: 30px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.tips {
+    margin-top: 5px;
+    font-size: 18px;
+}
+ul {
+    margin: 0;
+    padding-top: 5px;
+}
+
+ul li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px; 
+}
+
+ol {
+    margin: 0;
+    padding-top: 5px;
+}
+
+ol li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px; 
+}
+
+.nav {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px; 
+}
